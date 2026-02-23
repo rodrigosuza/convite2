@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+:root {
+  background-color: #f3e9e2;
+  /* Matching the background of the image */
+}
+
+html,
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  overflow: hidden;
+  touch-action: none;
+}
