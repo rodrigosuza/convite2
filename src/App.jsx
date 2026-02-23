@@ -1,8 +1,8 @@
 import invitationImg from './assets/iara.jpg'
 
 function App() {
-  const whatsappLink = "https://wa.me/5594991016930?text=Ol%C3%A1%20noivos%2C%20eu%20estou%20confirmando%20minha%20presen%C3%A7a!!";
-  const mapsLink = "https://www.google.com/maps/place/8%C2%B002'19.3%22S+50%C2%B000'01.0%22W/@-8.0386829,-50.0028534,17z/data=!3m1!4b1!4m4!3m3!8m2!3d-8.0386829!4d-50.0002785?hl=pt-BR&entry=ttu&g_ep=EgoyMDI2MDIxNi4wIKXMDSoASAFQAw%3D%3D";
+  const whatsappLink = "https://wa.me/5594991897327?text=Ol%C3%A1%20noivos%2C%20eu%20estou%20confirmando%20minha%20presen%C3%A7a!!";
+  const mapsLink = "https://maps.app.goo.gl/NJjM6NwJ2VTGdLc7A?g_st=iw";
   const listsLink = "https://ronald-iara.vercel.app/";
 
   const handleConfirmation = () => {
