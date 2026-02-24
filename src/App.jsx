@@ -3,7 +3,7 @@ import invitationImg from './assets/iara.jpg'
 function App() {
   const whatsappLink = "https://wa.me/5594991897327?text=Ol%C3%A1%20noivos%2C%20eu%20estou%20confirmando%20minha%20presen%C3%A7a!!";
   const mapsLink = "https://maps.app.goo.gl/NJjM6NwJ2VTGdLc7A?g_st=iw";
-  const listsLink = "https://ronald-iara.vercel.app/";
+  const listsLink = "https://listadepresentes-kaue-e-sara.vercel.app/";
 
   const handleConfirmation = () => {
     window.location.href = whatsappLink;
